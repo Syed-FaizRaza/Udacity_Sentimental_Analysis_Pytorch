@@ -1,2 +1,2 @@
-# Udacity_Sentimental_Analysis_Pytorch
-Udacity Sentimental Anlalysis with PyTroch using Amazon Sagemaker
+# Udacity_Sentimental_Analysis_Pytorch_Amazon_Sagemaker
+Udacity Sentimental Anlalysis with PyTorch using Amazon Sagemaker
